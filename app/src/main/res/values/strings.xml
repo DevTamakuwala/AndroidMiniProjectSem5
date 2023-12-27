@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Brunch</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_attender_id">Enter Attender Name</string>
+    <string name="enter_admin_id">Enter Admin Name</string>
+    <string name="login">Login</string>
+    <string name="go_to_registration">Go to Registration</string>
+    <string name="welcome">Welcome</string>
+    <string name="attender">Attender</string>
+    <string name="add_attender">Add Attender</string>
+    <string name="demo">Demo</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="attender_list">Attender List</string>
+    <string name="menu">Menu</string>
+    <string name="attenders">Attenders</string>
+    <string name="add_items">Add Items</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="add_description">Add Description</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_category">Add Category</string>
+    <string name="category">category</string>
+    <string name="image">Image</string>
+    <string name="order_now">Order Now</string>
+    <string name="update_item">Update Item</string>
+    <string name="update_items">Update Items</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="order_here">Order Here</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="orders">Orders</string>
+    <string name="order_list">Order List</string>
+</resources>
